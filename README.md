@@ -18,7 +18,8 @@ _What are the most influential factors on developer salary in UK?_ <br>
 
 ### File Descriptions
 3 notebooks, one for each individual question, are available to walk through the analysis about business questions mentioned above. <br>
-**The CSV file which is the original datasets downloaded from Stack Overflow offical website and used in this study is too large to uploaded, so please download it from Stack Overflow Official Website [here](https://survey.stackoverflow.co/) and upload it to the root directory when you are trying to run my code.**
+**The original CSV file which is the dataset downloaded from Stack Overflow offical website and used in this study is too large to uploaded, so please download it from Stack Overflow Official Website [here](https://survey.stackoverflow.co/) and upload it to the root directory when you are trying to run my code.**
+**Or just use the simplified version (drop columns that are not used in this analysis) in this repository.**
 
 ### Results
 The main findings of the code can be found at the plog on [Medi](https://medium.com/@jiamin.mao/what-impacts-developers-salary-9a05950f8c20).
